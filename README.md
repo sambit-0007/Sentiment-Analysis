@@ -13,3 +13,6 @@ This repository contains dataset for 40000 IMDB statements and each sentences co
                 
 ### Objective
         The objective is to check for the sentiment of the sentences using Deep Neural Network Models
+
+
+You can find the dataset here(https://www.kaggle.com/columbine/imdb-dataset-sentiment-analysis-in-csv-format )
